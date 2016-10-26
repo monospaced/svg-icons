@@ -1,0 +1,260 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-baby {
+  width: 0.7041015625em;
+}
+
+.icon-bag-alt {
+  width: 0.82421875em;
+}
+
+.icon-bag {
+  width: 0.7470703125em;
+}
+
+.icon-basket-reorder {
+  width: 1.150390625em;
+}
+
+.icon-basket-tick {
+  width: 1.318359375em;
+}
+
+.icon-bowl-noodles {
+  width: 1.384765625em;
+}
+
+.icon-bowl-rice {
+  width: 1.2998046875em;
+}
+
+.icon-bowl-salad {
+  width: 1.1865234375em;
+}
+
+.icon-bowl-soup {
+  width: 0.9013671875em;
+}
+
+.icon-cash {
+  width: 1.4951171875em;
+}
+
+.icon-chef-hat-alt {
+  width: 1.146484375em;
+}
+
+.icon-chef {
+  width: 0.8017578125em;
+}
+
+.icon-chevron-left-thin {
+  width: 0.5341796875em;
+}
+
+.icon-chevron-left {
+  width: 0.6591796875em;
+}
+
+.icon-chevron-right-thin {
+  width: 0.5341796875em;
+}
+
+.icon-chevron-right {
+  width: 0.658203125em;
+}
+
+.icon-chopsticks-bowl {
+  width: 0.8291015625em;
+}
+
+.icon-circle-fill-person {
+  width: 1.001953125em;
+}
+
+.icon-circle-fill-takeaway {
+  width: 1.033203125em;
+}
+
+.icon-closed {
+  width: 1.078125em;
+}
+
+.icon-credit-card-amex {
+  width: 1.2490234375em;
+}
+
+.icon-credit-card-mastercard {
+  width: 1.2490234375em;
+}
+
+.icon-credit-card-visa {
+  width: 1.2490234375em;
+}
+
+.icon-credit-card {
+  width: 1.2490234375em;
+}
+
+.icon-death {
+  width: 0.703125em;
+}
+
+.icon-dumpling {
+  width: 1.2421875em;
+}
+
+.icon-gyoza {
+  width: 1.2685546875em;
+}
+
+.icon-hamburger-menu {
+  width: 1.36328125em;
+}
+
+.icon-heart-fill {
+  width: 1.095703125em;
+}
+
+.icon-heart {
+  width: 1.095703125em;
+}
+
+.icon-index {
+  width: 1.4140625em;
+}
+
+.icon-lock {
+  width: 0.7080078125em;
+}
+
+.icon-map-marker {
+  width: 0.6669921875em;
+}
+
+.icon-marriage {
+  width: 0.8046875em;
+}
+
+.icon-moped {
+  width: 1.087890625em;
+}
+
+.icon-person-female {
+  width: 1.041015625em;
+}
+
+.icon-person-male {
+  width: 1.044921875em;
+}
+
+.icon-person {
+  width: 0.9228515625em;
+}
+
+.icon-play {
+  width: 0.8662109375em;
+}
+
+.icon-plus {
+  width: 0.947265625em;
+}
+
+.icon-pram {
+  width: 0.861328125em;
+}
+
+.icon-prawn-tempura {
+  width: 1.4462890625em;
+}
+
+.icon-print {
+  width: 1.0703125em;
+}
+
+.icon-restaurant-status-busy {
+  width: 1.474609375em;
+}
+
+.icon-restaurant-status-max-capacity {
+  width: 1.224609375em;
+}
+
+.icon-restaurant-status-normal {
+  width: 1.474609375em;
+}
+
+.icon-restaurant-status-quiet {
+  width: 1.478515625em;
+}
+
+.icon-sashimi {
+  width: 1.44921875em;
+}
+
+.icon-share {
+  width: 0.8271484375em;
+}
+
+.icon-spinner {
+  width: 1.0029296875em;
+}
+
+.icon-squirrel {
+  width: 0.9736328125em;
+}
+
+.icon-star-of-david {
+  width: 0.86328125em;
+}
+
+.icon-sushi-handroll {
+  width: 0.779296875em;
+}
+
+.icon-sushi-rolls {
+  width: 1.193359375em;
+}
+
+.icon-thumb-up {
+  width: 1.052734375em;
+}
+
+.icon-tick-thin {
+  width: 1.4375em;
+}
+
+.icon-tick {
+  width: 1.25em;
+}
+
+.icon-trend {
+  width: 1.4140625em;
+}
+
+.icon-vegitarian {
+  width: 0.9130859375em;
+}
+
+.icon-walk {
+  width: 0.5859375em;
+}
+
+.icon-wedge {
+  width: 0.70703125em;
+}
