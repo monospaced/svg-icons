@@ -4,6 +4,83 @@
     {
       "icon": {
         "paths": [
+          "M529.002 552.474c-1.816 1.42-3.962 2.113-6.14 2.113-2.047 0-4.094-0.627-5.843-1.915l-291.638-213.958 4.853-6.636c-8.55 9.442-13.502 22.317-13.502 37.734v284.21c0 30.471 21.888 54.67 52.821 54.67h482.882c30.438 0 54.67-24.199 54.67-54.67v-284.21c0-12.116-3.037-22.713-8.451-31.296l-269.651 213.958z",
+          "M796.045 335.083l2.509 3.169c-0.726-1.155-1.684-2.080-2.509-3.169z",
+          "M522.663 532.402l262.223-208.015c-8.814-5.876-19.775-9.211-32.419-9.211h-481.001c-12.644 0-23.604 3.301-32.353 9.178l283.549 208.048z",
+          "M0 0v1024h1023.967v-1024h-1023.967zM846.522 654.055c0 51.831-42.191 94.054-94.054 94.054h-482.882c-51.665 0-92.173-41.299-92.173-94.054v-284.21c0-54.472 39.55-94.021 94.054-94.021h481.001c54.472 0 94.054 39.517 94.054 94.021v284.21z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "square-fill-envelope"
+        ]
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 119,
+        "id": 1,
+        "name": "square-fill-envelope",
+        "prevSize": 64
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M310.3 297.259h403.334v429.481h-403.334v-429.481z",
+          "M713.634 227.269c0-32.618-26.675-59.326-59.293-59.326h-284.681c-32.684 0-59.359 26.708-59.359 59.326v48.663h403.334v-48.663zM595.014 249.818h-166.094c-5.91 0-10.664-4.787-10.664-10.664s4.787-10.664 10.664-10.664h166.094c5.91 0 10.664 4.787 10.664 10.664s-4.754 10.664-10.664 10.664z",
+          "M525.057 796.731c0 7.22-5.853 13.074-13.074 13.074s-13.074-5.853-13.074-13.074c0-7.22 5.853-13.074 13.074-13.074s13.074 5.853 13.074 13.074z",
+          "M310.3 796.698c0 32.618 26.675 59.326 59.359 59.326h284.681c32.618 0 59.293-26.708 59.293-59.326v-48.597h-403.334v48.597zM511.983 762.33c18.95 0 34.401 15.418 34.401 34.368s-15.451 34.434-34.401 34.434-34.401-15.484-34.401-34.434 15.451-34.368 34.401-34.368z",
+          "M0 0v1024h1024v-1024h-1024zM756.354 796.698c0 56.256-45.791 102.047-102.014 102.047h-284.681c-56.289 0-102.080-45.791-102.080-102.047v-569.428c0-56.256 45.791-102.047 102.080-102.047h284.681c56.223 0 102.014 45.791 102.014 102.047v569.428z"
+        ],
+        "attrs": [
+          {},
+          {},
+          {},
+          {},
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "square-fill-phone"
+        ]
+      },
+      "attrs": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ],
+      "properties": {
+        "order": 120,
+        "id": 0,
+        "name": "square-fill-phone",
+        "prevSize": 64
+      },
+      "setIdx": 0,
+      "setId": 1,
+      "iconIdx": 1
+    },
+    {
+      "icon": {
+        "paths": [
           "M148.38 0v65.806h-34.873c-34.332 0-54.827 21.675-54.827 57.941 0 36.252 20.494 57.913 54.827 57.913h34.873v39.282h-34.873c-34.332 0-54.827 21.632-54.827 57.913 0 36.295 20.494 57.941 54.827 57.941h34.873v39.268h-34.873c-34.332 0-54.827 21.646-54.827 57.913s20.494 57.941 54.827 57.941h34.873v40.149h-34.873c-34.332 0-54.827 21.66-54.827 57.941 0 36.267 20.494 57.927 54.827 57.927h34.873v39.268h-34.873c-34.332 0-54.827 21.632-54.827 57.913 0 36.309 20.494 57.941 54.827 57.941h34.873v39.268h-34.873c-34.332 0-54.827 21.66-54.827 57.913 0 36.281 20.494 57.927 54.827 57.927h34.873v65.835h816.939v-1024h-816.939zM206.748 927.175h-93.241c-16.939 0-23.794-7.78-23.794-26.923 0-19.157 6.855-26.908 23.794-26.908h93.241c16.939 0 23.808 7.751 23.808 26.908s-6.869 26.923-23.808 26.923zM206.748 772.068h-93.241c-16.939 0-23.794-7.78-23.794-26.937s6.855-26.908 23.794-26.908h93.241c16.939 0 23.808 7.765 23.808 26.923s-6.869 26.923-23.808 26.923zM206.748 616.932h-93.241c-16.939 0-23.794-7.765-23.794-26.908 0-19.172 6.855-26.923 23.794-26.923h93.241c16.939 0 23.808 7.751 23.808 26.923 0 19.143-6.869 26.908-23.808 26.908zM206.748 460.9h-93.241c-16.939 0-23.794-7.751-23.794-26.923 0-19.143 6.855-26.923 23.794-26.923h93.241c16.939 0 23.808 7.78 23.808 26.923 0 19.172-6.869 26.923-23.808 26.923zM206.748 305.792h-93.241c-16.939 0-23.794-7.765-23.794-26.937 0-19.143 6.855-26.908 23.794-26.908h93.241c16.939 0 23.808 7.765 23.808 26.908 0 19.172-6.869 26.937-23.808 26.937zM206.748 150.656h-93.241c-16.939 0-23.794-7.751-23.794-26.908 0-19.129 6.855-26.937 23.794-26.937h93.241c16.939 0 23.808 7.808 23.808 26.937 0 19.157-6.869 26.908-23.808 26.908zM819.285 729.671l-490.212 0.057v-50.475c0 0 0.313-29.724 61.184-56.846 29.412-13.141 73.003-46.777 137.557-58.638-16.597-17.735-28.999-45.54-42.041-78.692-7.524-19.157-6.272-35.484-6.272-58.752 0-17.095-3.228-44.53 0.981-59.591 14.322-51.172 50.603-65.337 93.113-65.337 42.468 0 78.734 14.094 93.084 65.18 4.252 15.104 1.024 42.61 1.024 59.748 0 23.225 1.28 39.495-6.229 58.61-12.928 32.981-25.543 60.828-42.169 78.635 65.052 11.648 108.971 45.554 138.581 58.709 61.113 27.15 61.383 56.974 61.383 56.974v50.418z"
         ],
         "attrs": [
@@ -30,7 +107,7 @@
         "name": "address-book",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 0
     },
@@ -63,7 +140,7 @@
         "name": "arrow-up-right",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 1
     },
@@ -97,7 +174,7 @@
         "name": "baby",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 2
     },
@@ -143,7 +220,7 @@
         "name": "bag-alt",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 3
     },
@@ -181,7 +258,7 @@
         "name": "bag",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 4
     },
@@ -219,7 +296,7 @@
         "name": "basket-reorder",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 5
     },
@@ -257,7 +334,7 @@
         "name": "basket-tick",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 6
     },
@@ -290,7 +367,7 @@
         "name": "book-open",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 7
     },
@@ -360,7 +437,7 @@
         "name": "bowl-noodles",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 8
     },
@@ -398,7 +475,7 @@
         "name": "bowl-rice",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 9
     },
@@ -476,7 +553,7 @@
         "name": "bowl-salad",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 10
     },
@@ -522,7 +599,7 @@
         "name": "bowl-soup",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 11
     },
@@ -560,7 +637,7 @@
         "name": "cash",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 12
     },
@@ -598,7 +675,7 @@
         "name": "chef-hat-alt",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 13
     },
@@ -635,7 +712,7 @@
         "name": "chef-hat",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 14
     },
@@ -681,7 +758,7 @@
         "name": "chef",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 15
     },
@@ -715,7 +792,7 @@
         "name": "chevron-left-thin",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 16
     },
@@ -749,7 +826,7 @@
         "name": "chevron-left",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 17
     },
@@ -783,7 +860,7 @@
         "name": "chevron-right-thin",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 18
     },
@@ -817,7 +894,7 @@
         "name": "chevron-right",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 19
     },
@@ -863,7 +940,7 @@
         "name": "chopsticks-bowl",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 20
     },
@@ -896,7 +973,7 @@
         "name": "circle-fill-calendar",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 21
     },
@@ -929,7 +1006,7 @@
         "name": "circle-fill-graph",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 22
     },
@@ -962,7 +1039,7 @@
         "name": "circle-fill-heart",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 23
     },
@@ -995,7 +1072,7 @@
         "name": "circle-fill-lightblub",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 24
     },
@@ -1028,7 +1105,7 @@
         "name": "circle-fill-map-marker",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 25
     },
@@ -1062,7 +1139,7 @@
         "name": "circle-fill-person",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 26
     },
@@ -1095,7 +1172,7 @@
         "name": "circle-fill-receipe",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 27
     },
@@ -1128,7 +1205,7 @@
         "name": "circle-fill-restaurant",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 28
     },
@@ -1162,7 +1239,7 @@
         "name": "circle-fill-takeaway",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 29
     },
@@ -1261,7 +1338,7 @@
         "name": "circle-line-document",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 30
     },
@@ -1298,7 +1375,7 @@
         "name": "circle-line-info",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 31
     },
@@ -1335,7 +1412,7 @@
         "name": "circle-line-map-marker",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 32
     },
@@ -1372,7 +1449,7 @@
         "name": "circle-line-person",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 33
     },
@@ -1409,7 +1486,7 @@
         "name": "circle-line-phone",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 34
     },
@@ -1442,7 +1519,7 @@
         "name": "circle-minus-fill",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 35
     },
@@ -1479,7 +1556,7 @@
         "name": "circle-minus",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 36
     },
@@ -1528,7 +1605,7 @@
         "name": "clock",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 37
     },
@@ -1582,7 +1659,7 @@
         "name": "closed",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 38
     },
@@ -1632,7 +1709,7 @@
         "name": "credit-card-amex",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 39
     },
@@ -1682,7 +1759,7 @@
         "name": "credit-card-mastercard",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 40
     },
@@ -1732,7 +1809,7 @@
         "name": "credit-card-visa",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 41
     },
@@ -1774,7 +1851,7 @@
         "name": "credit-card",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 42
     },
@@ -1811,7 +1888,7 @@
         "name": "cross-thin",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 43
     },
@@ -1848,7 +1925,7 @@
         "name": "cross",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 44
     },
@@ -1886,7 +1963,7 @@
         "name": "death",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 45
     },
@@ -1923,7 +2000,7 @@
         "name": "document-edit",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 46
     },
@@ -1969,7 +2046,7 @@
         "name": "dumpling",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 47
     },
@@ -2014,7 +2091,7 @@
         "name": "envelope",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 48
     },
@@ -2055,7 +2132,7 @@
         "name": "fork-spoon",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 49
     },
@@ -2092,7 +2169,7 @@
         "name": "globe",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 50
     },
@@ -2125,7 +2202,7 @@
         "name": "grave",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 51
     },
@@ -2175,7 +2252,7 @@
         "name": "gyoza",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 52
     },
@@ -2217,7 +2294,7 @@
         "name": "hamburger-menu",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 53
     },
@@ -2250,7 +2327,7 @@
         "name": "hand-drawn-blog",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 54
     },
@@ -2287,7 +2364,7 @@
         "name": "hand-drawn-chilli",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 55
     },
@@ -2320,7 +2397,7 @@
         "name": "hand-drawn-facebook",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 56
     },
@@ -2353,7 +2430,7 @@
         "name": "hand-drawn-twitter",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 57
     },
@@ -2390,7 +2467,7 @@
         "name": "hand-drawn-veggie",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 58
     },
@@ -2424,7 +2501,7 @@
         "name": "heart-fill",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 59
     },
@@ -2458,7 +2535,7 @@
         "name": "heart",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 60
     },
@@ -2520,7 +2597,7 @@
         "name": "index",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 61
     },
@@ -2553,7 +2630,7 @@
         "name": "input-radio-off",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 62
     },
@@ -2590,7 +2667,7 @@
         "name": "input-radio-on",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 63
     },
@@ -2623,7 +2700,7 @@
         "name": "JE",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 64
     },
@@ -2669,7 +2746,7 @@
         "name": "lock",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 65
     },
@@ -2703,7 +2780,7 @@
         "name": "map-marker",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 66
     },
@@ -2745,7 +2822,7 @@
         "name": "marriage",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 67
     },
@@ -2786,7 +2863,7 @@
         "name": "megaphone",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 68
     },
@@ -2819,7 +2896,7 @@
         "name": "minus",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 69
     },
@@ -2869,7 +2946,7 @@
         "name": "moped",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 70
     },
@@ -2902,7 +2979,7 @@
         "name": "pencil",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 71
     },
@@ -2935,7 +3012,7 @@
         "name": "person-alt",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 72
     },
@@ -2968,7 +3045,7 @@
         "name": "person-business",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 73
     },
@@ -3006,7 +3083,7 @@
         "name": "person-female",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 74
     },
@@ -3044,7 +3121,7 @@
         "name": "person-male",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 75
     },
@@ -3078,7 +3155,7 @@
         "name": "person",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 76
     },
@@ -3119,7 +3196,7 @@
         "name": "piggy-bank",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 77
     },
@@ -3153,7 +3230,7 @@
         "name": "play",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 78
     },
@@ -3190,7 +3267,7 @@
         "name": "plus-thick",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 79
     },
@@ -3227,7 +3304,7 @@
         "name": "plus-thin",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 80
     },
@@ -3261,7 +3338,7 @@
         "name": "plus",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 81
     },
@@ -3295,7 +3372,7 @@
         "name": "pram",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 82
     },
@@ -3337,7 +3414,7 @@
         "name": "prawn-tempura",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 83
     },
@@ -3399,7 +3476,7 @@
         "name": "print",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 84
     },
@@ -3432,7 +3509,7 @@
         "name": "reciept",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 85
     },
@@ -3478,7 +3555,7 @@
         "name": "restaurant-status-busy",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 86
     },
@@ -3516,7 +3593,7 @@
         "name": "restaurant-status-max-capacity",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 87
     },
@@ -3558,7 +3635,7 @@
         "name": "restaurant-status-normal",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 88
     },
@@ -3596,7 +3673,7 @@
         "name": "restaurant-status-quiet",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 89
     },
@@ -3638,7 +3715,7 @@
         "name": "sashimi",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 90
     },
@@ -3675,7 +3752,7 @@
         "name": "search",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 91
     },
@@ -3721,7 +3798,7 @@
         "name": "share",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 92
     },
@@ -3758,7 +3835,7 @@
         "name": "sign-out",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 93
     },
@@ -3792,7 +3869,7 @@
         "name": "spinner",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 94
     },
@@ -3826,7 +3903,7 @@
         "name": "squirrel",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 95
     },
@@ -3864,7 +3941,7 @@
         "name": "star-of-david",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 96
     },
@@ -3897,7 +3974,7 @@
         "name": "star",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 97
     },
@@ -3930,7 +4007,7 @@
         "name": "sterling",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 98
     },
@@ -3968,7 +4045,7 @@
         "name": "sushi-handroll",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 99
     },
@@ -4054,7 +4131,7 @@
         "name": "sushi-rolls",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 100
     },
@@ -4092,7 +4169,7 @@
         "name": "thumb-up",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 101
     },
@@ -4126,7 +4203,7 @@
         "name": "tick-thin",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 102
     },
@@ -4160,7 +4237,7 @@
         "name": "tick",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 103
     },
@@ -4213,7 +4290,7 @@
         "name": "trash",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 104
     },
@@ -4275,7 +4352,7 @@
         "name": "trend",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 105
     },
@@ -4309,7 +4386,7 @@
         "name": "vegitarian",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 106
     },
@@ -4347,7 +4424,7 @@
         "name": "walk",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 107
     },
@@ -4381,7 +4458,7 @@
         "name": "wedge",
         "prevSize": 64
       },
-      "setIdx": 0,
+      "setIdx": 1,
       "setId": 0,
       "iconIdx": 108
     }
@@ -4412,6 +4489,7 @@
       "height": 64,
       "overrideSize": "true"
     },
-    "historySize": 100
+    "historySize": 100,
+    "gridSize": 16
   }
 }

@@ -2,7 +2,7 @@
  * @copyright Copyright (c) 2016 IcoMoon.io
  * @license   Licensed under MIT license
  *            See https://github.com/Keyamoon/svgxuse
- * @version   1.1.21
+ * @version   1.1.23
  */
 /*jslint browser: true */
 /*global XDomainRequest, MutationObserver, window */
@@ -47,21 +47,27 @@
             }
         };
         var createRequest = function (url) {
-            // In IE 9, cross domain requests can only be sent using XDomainRequest.
+            // In IE 9, cross origin requests can only be sent using XDomainRequest.
             // XDomainRequest would fail if CORS headers are not set.
-            // Therefore, XDomainRequest should only be used with cross domain requests.
-            function getHostname(href) {
-                var a = document.createElement('a');
-                a.href = href;
-                return a.hostname;
+            // Therefore, XDomainRequest should only be used with cross origin requests.
+            function getOrigin(loc) {
+                var a;
+                if (loc.protocol !== undefined) {
+                    a = loc;
+                } else {
+                    a = document.createElement('a');
+                    a.href = loc;
+                }
+                return a.protocol.replace(/:/g, '') + a.host;
             }
             var Request;
-            var hname = location.hostname;
-            var hname2;
+            var origin;
+            var origin2;
             if (window.XMLHttpRequest) {
                 Request = new XMLHttpRequest();
-                hname2 = getHostname(url);
-                if (Request.withCredentials === undefined && hname2 !== '' && hname2 !== hname) {
+                origin = getOrigin(location);
+                origin2 = getOrigin(url);
+                if (Request.withCredentials === undefined && origin2 !== '' && origin2 !== origin) {
                     Request = XDomainRequest || undefined;
                 } else {
                     Request = XMLHttpRequest;
