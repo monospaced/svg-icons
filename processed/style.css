@@ -15,6 +15,18 @@ Single-colored icons can be modified like so:
 }
 ========================================== */
 
+.icon-arrow-enter {
+  width: 1.021484375em;
+}
+
+.icon-envelope-line {
+  width: 1.4736328125em;
+}
+
+.icon-speech-typing {
+  width: 1.1533203125em;
+}
+
 .icon-baby {
   width: 0.7041015625em;
 }
